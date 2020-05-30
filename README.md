@@ -88,6 +88,11 @@ COMMAND=!expired
 * This command will signify if a post should be flaired(Expired)
 * Redditors will comment on an expired deal, !Expired, and the bot will flair the post as Expired.
 
+### NOTE BEFORE RUNNING
+* The account that you are running the script on must be a moderator in the subreddit you are running!
+
+*I.E. ScoopJr is a moderator of Kgamers, where I test all my scripts.*
+
 ### Running the bot
 * Open up your command prompt
 * Navigate to the directory your bot is in
