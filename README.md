@@ -86,7 +86,7 @@ COMMAND=!expired
 ```
 ### COMMAND
 * This command will signify if a post should be flaired(Expired)
-* Redditors will comment on an expired deal, !Expired, and the bot will flair the post as Expired.
+* Redditors will comment on an expired deal, !expired, and the bot will flair the post as Expired.
 
 ### NOTE BEFORE RUNNING
 * The account that you are running the script on must be a moderator in the subreddit you are running!
