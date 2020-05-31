@@ -16,11 +16,6 @@ pip install praw
 ```
 (Everything else included in Python library)
 
-### Installing Python
-* Download Python 3.7: https://www.python.org/downloads/release/python-370/
-* Add Python to Path by selecting box during installation or manually adding to Path(https://datatofish.com/add-python-to-windows-path/)
-* Open up Command Prompt and type "python", it should tell you the version if its installed correctly.
-
 ### Setting up Flair
 * Go to your subreddit, www.reddit.com/r/subreddit 
 * Select Mod Tools, near the "About Community" section
@@ -43,7 +38,7 @@ Expired
 * At the very bottom again, select create another app..
 * In the name, type "DealExpiredBot by ScoopJr"
 * Select the bubble: script
-* In description, type "Bot that removes rulebreaking posts by flair."
+* In description, type "Bot that reflairs posts based on command"
 * For about url, type "http://localhost"
 * For redirect url, type "http://localhost"
 * Select create app
@@ -64,6 +59,11 @@ daklfanlfkanl392r29neorfjs
 ```
 ddMaksjJsuyeb
 ```
+
+### Installing Python
+* Download Python 3.7: https://www.python.org/downloads/release/python-370/
+* Add Python to Path by selecting box during installation or manually adding to Path(https://datatofish.com/add-python-to-windows-path/)
+* Open up Command Prompt and type "python", it should tell you the version if its installed correctly.
 
 ### Installation for Home PC
 * Open up your Command Prompt again, type 
