@@ -1,9 +1,8 @@
 
-# DealExpiredBot - Work In Progress Branch
-## Likely to contain features that may not work correctly or at all.  Download at your own-risk!
+# DealExpiredBot 
 
 ### Description
-A script that searches reddit comments for a command, once the command is found, the bot reflairs the post!
+A script that compares the dates between today and the submission and automatically re-flairs the post!
 
 ### Preqs
 * PRAW
@@ -83,11 +82,11 @@ SECRET=daklfanlfkanl392r29neorfjs
 SUBREDDIT=mysubredditexample
 DELAY=30
 FLAIR=Expired
-COMMAND=!expired
+DAYS_BEFORE_REFLAIRING=14
 ```
-### COMMAND
-* This command will signify if a post should be flaired(Expired)
-* Redditors will comment on an expired deal, !expired, and the bot will flair the post as Expired.
+### DAYS_BEFORE_REFLAIRING
+* Default: 14 - Checks if 14 days has past before reflairing the post.
+
 
 ### NOTE BEFORE RUNNING
 * The account that you are running the script on must be a moderator in the subreddit you are running!
