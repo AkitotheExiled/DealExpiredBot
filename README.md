@@ -1,5 +1,6 @@
 
-# DealExpiredBot
+# DealExpiredBot - Work In Progress Branch
+## Likely to contain features that may not work correctly or at all.  Download at your own-risk!
 
 ### Description
 A script that searches reddit comments for a command, once the command is found, the bot reflairs the post!
