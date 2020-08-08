@@ -1,13 +1,14 @@
-* [I don't want to run the bot on my own](#invite-setup)
+* [I don't want to run the bot on my own](#i-dont-want-to-run-my-own)
 
 * [I want to run the bot on my own](#build-my-own)
 
 - - - -
-## invite setup
+## I don't want to run my own
 * Send a private message to [DealExpiredBot](https://www.reddit.com/user/DealExpiredBot/) with the name of your community.
  * If accepted, invite DealExpiredBot to be a moderator of your community with the following permissions:
      1. Flair
      2. Wiki
+     
      
 ### Setting up your wiki page
 * The rest of the configuration variables the bot pulls from your wiki.
@@ -17,10 +18,12 @@
 https:///www.reddit.com/r/sub/wiki/botconfig
 ```
 
+
 **PICK ONE**
 
 * [Command route](#using-a-command)
 * [Automatic time route](#using-time)
+
 
 #### using a command
 * Set your flair
